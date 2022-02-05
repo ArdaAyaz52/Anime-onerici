@@ -1,7 +1,9 @@
 # anime-onerici
-bu yazılımın %98'i arda kc tarafından yapılmıştır
+yazılımın algoritması arda kc tarafından yazılmıştır.
+teknik sorunlar için arda kc'ye ulaşabilirsiniz.
 
-animeler arda xe tarafından eklenmiştir
+animeler arda xe tarafından eklenmiştir.
+anime eklemek için öneri yapmak isterseniz arda xe'ye ulaşabilirsiniz.
 
 programın çalışması için java kurulması gerekiyor.
 
