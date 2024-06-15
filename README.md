@@ -10,4 +10,4 @@ https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.c
 
 Arda XE : Arda XE#2341
 
-Arda KC : Arda XE#9318
+Arda KC : Arda KC#9318
